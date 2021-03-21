@@ -1,0 +1,11 @@
+ssd1322.c:36:6:SSD1322_Initialize	8	static
+ssd1322.c:110:6:SSD1322_Reset	8	static
+ssd1322.c:129:6:SSD1322_Command	16	static
+ssd1322.c:135:6:SSD1322_Data	16	static
+ssd1322.c:141:6:SSD1322_DataBytes	16	static
+ssd1322.c:147:6:SSD1322_Write	16	static
+ssd1322.c:174:6:SSD1322_Display	16	static
+ssd1322.c:225:6:SSD1322_Fill	24	static
+ssd1322.c:259:6:SSD1322_DrawPixel	32	static
+ssd1322.c:573:5:SSD1322_DrawUnicode	40	static
+ssd1322.c:746:5:SSD1322_DrawChar	24	static
